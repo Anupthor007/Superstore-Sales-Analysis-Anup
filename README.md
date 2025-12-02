@@ -78,6 +78,8 @@ What I personally learned and/or modified in this project:
     - Top 5 customers by profit  
     - Monthly sales trend  
     - Extra visualizations
+I added an extra analysis to identify the Top 10 most profitable products in the dataset.
+This helps understand which items contribute the most to the company’s profit and can guide inventory or marketing decisions.
 
 ## How to Run This Project
 
